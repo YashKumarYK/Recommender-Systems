@@ -7,4 +7,4 @@ This is a content based recommendation system.
 
 The algorithm used in the project is K nearest neighbour but the cosine distance is used istead of  Euclidean Distance.
 
-Preprocessing includes merging the datasets, modifying the columns of data, data cleaning, and vectorization of the words.
+Preprocessing includes merging the datasets, modifying the columns of data, data cleaning, vectorization and stemming of the words.
